@@ -1,5 +1,6 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { createContext, useContext, useEffect, useMemo, useState } from 'react';
+import { Platform } from 'react-native';
 
 const UserContext = createContext(null);
 
@@ -67,16 +68,31 @@ export function UserProvider({ children }) {
   const [goals, setGoals] = useState('');
   const [advisorResults, setAdvisorResults] = useState(null);
   const [registeredCredentials, setRegisteredCredentials] = useState(null);
+  const [isReady, setIsReady] = useState(false);
 
   useEffect(() => {
     async function loadStoredData() {
       try {
-        const [storedProfile, storedCredentials, storedInterests, storedSkills, storedGoals] = await Promise.all([
+        // Reset onboarding state on web to always show sign-up first
+        if (Platform.OS === 'web') {
+          await AsyncStorage.removeItem(STORAGE_KEYS.hasCompletedOnboarding);
+          setHasCompletedOnboarding(false);
+        }
+
+        const [
+          storedProfile,
+          storedCredentials,
+          storedInterests,
+          storedSkills,
+          storedGoals,
+          storedOnboarding,
+        ] = await Promise.all([
           AsyncStorage.getItem(STORAGE_KEYS.profile),
           AsyncStorage.getItem(STORAGE_KEYS.credentials),
           AsyncStorage.getItem(STORAGE_KEYS.interests),
           AsyncStorage.getItem(STORAGE_KEYS.skills),
           AsyncStorage.getItem(STORAGE_KEYS.goals),
+          AsyncStorage.getItem(STORAGE_KEYS.hasCompletedOnboarding),
         ]);
 
         if (storedProfile) {
@@ -98,8 +114,14 @@ export function UserProvider({ children }) {
         if (storedGoals) {
           setGoals(storedGoals);
         }
+
+        if (storedOnboarding === 'true') {
+          setHasCompletedOnboarding(true);
+        }
       } catch (error) {
         console.warn('Failed to load stored user data', error);
+      } finally {
+        setIsReady(true);
       }
     }
 
@@ -135,6 +157,7 @@ export function UserProvider({ children }) {
     setGoals(nextGoals.trim());
     setHasCompletedOnboarding(true);
 
+    AsyncStorage.setItem(STORAGE_KEYS.hasCompletedOnboarding, 'true');
     AsyncStorage.setItem(STORAGE_KEYS.profile, JSON.stringify(newProfile));
     AsyncStorage.setItem(STORAGE_KEYS.credentials, JSON.stringify(credentials));
     AsyncStorage.setItem(STORAGE_KEYS.interests, nextInterests.trim());
@@ -164,6 +187,7 @@ export function UserProvider({ children }) {
     }
 
     setHasCompletedOnboarding(true);
+    AsyncStorage.setItem(STORAGE_KEYS.hasCompletedOnboarding, 'true');
     return true;
   }
 
@@ -218,6 +242,7 @@ export function UserProvider({ children }) {
   const value = useMemo(
     () => ({
       hasCompletedOnboarding,
+      isReady,
       completeOnboarding,
       login,
       profile,
@@ -236,7 +261,7 @@ export function UserProvider({ children }) {
       setAdvisorResults,
       registeredCredentials,
     }),
-    [hasCompletedOnboarding, profile, finance, interests, skills, goals, advisorResults, registeredCredentials],
+    [hasCompletedOnboarding, isReady, profile, finance, interests, skills, goals, advisorResults, registeredCredentials],
   );
 
   return <UserContext.Provider value={value}>{children}</UserContext.Provider>;

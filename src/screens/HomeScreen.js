@@ -67,7 +67,7 @@ export default function HomeScreen() {
   return (
     <ScreenContainer scroll>
       <SectionHeader
-        title={`Hello, ${profile.name.split(' ')[0]}!`}
+        title={`Hello, ${profile.name?.trim() ? profile.name.split(' ')[0] : 'there'}!`}
         subtitle="Here's your personalized AI overview"
         icon="sparkles"
       />

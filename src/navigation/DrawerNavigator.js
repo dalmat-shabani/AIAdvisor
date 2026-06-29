@@ -1,6 +1,6 @@
 import { Ionicons } from '@expo/vector-icons';
 import { createDrawerNavigator } from '@react-navigation/drawer';
-import { StyleSheet } from 'react-native';
+import { Platform, StyleSheet } from 'react-native';
 
 import AboutScreen from '../screens/AboutScreen';
 import ProfileScreen from '../screens/ProfileScreen';
@@ -15,6 +15,8 @@ export default function DrawerNavigator() {
       drawerContent={(props) => <DrawerNavigatorContent {...props} />}
       screenOptions={{
         headerShown: false,
+        drawerType: Platform.OS === 'web' ? 'front' : 'slide',
+        overlayColor: 'rgba(15, 23, 42, 0.45)',
         drawerActiveTintColor: '#2563EB',
         drawerInactiveTintColor: '#475569',
         drawerLabelStyle: styles.drawerLabel,

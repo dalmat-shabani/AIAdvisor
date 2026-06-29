@@ -36,8 +36,8 @@ export default function OnboardingScreen({ navigation }) {
         <View style={styles.logoBox}>
           <Ionicons name="sparkles" size={36} color={colors.primary} />
         </View>
-        <Text style={styles.title}>AI Life Advisor</Text>
-        <Text style={styles.subtitle}>Create your profile to begin with your own data.</Text>
+        <Text style={styles.title}>Create Account</Text>
+        <Text style={styles.subtitle}>Sign up to start using AI Life Advisor with your own data.</Text>
       </View>
 
       <Card>
@@ -90,7 +90,7 @@ export default function OnboardingScreen({ navigation }) {
           multiline
         />
         <PrimaryButton
-          title="Start My Advisor"
+          title="Sign Up"
           icon="arrow-forward-circle-outline"
           onPress={handleContinue}
           disabled={!canContinue}
@@ -128,5 +128,13 @@ const styles = StyleSheet.create({
     color: colors.textSecondary,
     textAlign: 'center',
     lineHeight: 22,
+  },
+  switchAction: {
+    marginTop: theme.spacing.md,
+    alignItems: 'center',
+  },
+  switchText: {
+    color: colors.primary,
+    fontWeight: '600',
   },
 });
