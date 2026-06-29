@@ -8,5 +8,11 @@ module.exports = function (api) {
       ['@babel/plugin-transform-private-property-in-object', { loose: true }],
       'react-native-reanimated/plugin',
     ],
+    overrides: [
+      {
+        test: /node_modules[\\/]((react-native-gesture-handler)|(expo-modules-core)|(expo-status-bar)|(expo-keep-awake))/,
+        presets: ['@babel/preset-typescript'],
+      },
+    ],
   };
 };
