@@ -1,0 +1,17 @@
+{
+  "name": "Alex Morgan",
+  "email": "alex.morgan@email.com",
+  "location": "San Francisco, CA",
+  "memberSince": "2024",
+  "summary": {
+    "financialHealth": "Good",
+    "savingsRate": 29,
+    "topGoal": "Career transition to tech",
+    "riskLevel": "Moderate"
+  },
+  "stats": [
+    { "label": "Monthly Savings", "value": "$1,520", "icon": "wallet-outline", "color": "#10B981" },
+    { "label": "Goals Active", "value": "3", "icon": "flag-outline", "color": "#2563EB" },
+    { "label": "Skills Tracked", "value": "8", "icon": "construct-outline", "color": "#8B5CF6" }
+  ]
+}

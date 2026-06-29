@@ -1,0 +1,2576 @@
+{
+  "careers": [
+    {
+      "id": "1",
+      "title": "Software Developer",
+      "category": "Technology",
+      "salaryRange": "$75,000 - $140,000",
+      "growth": "High",
+      "matchTags": [
+        "technology",
+        "software",
+        "coding",
+        "engineering",
+        "developer"
+      ],
+      "description": "Software Developer helps organizations by applying technology knowledge and practical skills to deliver results.",
+      "skills": [
+        "Problem Solving",
+        "Coding",
+        "Debugging",
+        "Software",
+        "Developer"
+      ],
+      "education": "Technology degree or relevant experience",
+      "outlook": "Strong demand in digital transformation",
+      "icon": "code-slash-outline"
+    },
+    {
+      "id": "2",
+      "title": "Front-End Developer",
+      "category": "Technology",
+      "salaryRange": "$75,000 - $140,000",
+      "growth": "High",
+      "matchTags": [
+        "technology",
+        "software",
+        "coding",
+        "engineering",
+        "front",
+        "end"
+      ],
+      "description": "Front-End Developer helps organizations by applying technology knowledge and practical skills to deliver results.",
+      "skills": [
+        "Problem Solving",
+        "Coding",
+        "Debugging",
+        "Front",
+        "End"
+      ],
+      "education": "Technology degree or relevant experience",
+      "outlook": "Strong demand in digital transformation",
+      "icon": "code-slash-outline"
+    },
+    {
+      "id": "3",
+      "title": "Back-End Developer",
+      "category": "Technology",
+      "salaryRange": "$75,000 - $140,000",
+      "growth": "High",
+      "matchTags": [
+        "technology",
+        "software",
+        "coding",
+        "engineering",
+        "back",
+        "end"
+      ],
+      "description": "Back-End Developer helps organizations by applying technology knowledge and practical skills to deliver results.",
+      "skills": [
+        "Problem Solving",
+        "Coding",
+        "Debugging",
+        "Back",
+        "End"
+      ],
+      "education": "Technology degree or relevant experience",
+      "outlook": "Strong demand in digital transformation",
+      "icon": "code-slash-outline"
+    },
+    {
+      "id": "4",
+      "title": "Full-Stack Developer",
+      "category": "Technology",
+      "salaryRange": "$75,000 - $140,000",
+      "growth": "High",
+      "matchTags": [
+        "technology",
+        "software",
+        "coding",
+        "engineering",
+        "full",
+        "stack"
+      ],
+      "description": "Full-Stack Developer helps organizations by applying technology knowledge and practical skills to deliver results.",
+      "skills": [
+        "Problem Solving",
+        "Coding",
+        "Debugging",
+        "Full",
+        "Stack"
+      ],
+      "education": "Technology degree or relevant experience",
+      "outlook": "Strong demand in digital transformation",
+      "icon": "code-slash-outline"
+    },
+    {
+      "id": "5",
+      "title": "Mobile App Developer",
+      "category": "Technology",
+      "salaryRange": "$75,000 - $140,000",
+      "growth": "High",
+      "matchTags": [
+        "technology",
+        "software",
+        "coding",
+        "engineering",
+        "mobile",
+        "app"
+      ],
+      "description": "Mobile App Developer helps organizations by applying technology knowledge and practical skills to deliver results.",
+      "skills": [
+        "Problem Solving",
+        "Coding",
+        "Debugging",
+        "Mobile",
+        "App"
+      ],
+      "education": "Technology degree or relevant experience",
+      "outlook": "Strong demand in digital transformation",
+      "icon": "code-slash-outline"
+    },
+    {
+      "id": "6",
+      "title": "Cloud Engineer",
+      "category": "Technology",
+      "salaryRange": "$75,000 - $140,000",
+      "growth": "High",
+      "matchTags": [
+        "technology",
+        "software",
+        "coding",
+        "engineering",
+        "cloud",
+        "engineer"
+      ],
+      "description": "Cloud Engineer helps organizations by applying technology knowledge and practical skills to deliver results.",
+      "skills": [
+        "Problem Solving",
+        "Coding",
+        "Debugging",
+        "Cloud",
+        "Engineer"
+      ],
+      "education": "Technology degree or relevant experience",
+      "outlook": "Strong demand in digital transformation",
+      "icon": "code-slash-outline"
+    },
+    {
+      "id": "7",
+      "title": "DevOps Engineer",
+      "category": "Technology",
+      "salaryRange": "$75,000 - $140,000",
+      "growth": "High",
+      "matchTags": [
+        "technology",
+        "software",
+        "coding",
+        "engineering",
+        "devops",
+        "engineer"
+      ],
+      "description": "DevOps Engineer helps organizations by applying technology knowledge and practical skills to deliver results.",
+      "skills": [
+        "Problem Solving",
+        "Coding",
+        "Debugging",
+        "Devops",
+        "Engineer"
+      ],
+      "education": "Technology degree or relevant experience",
+      "outlook": "Strong demand in digital transformation",
+      "icon": "code-slash-outline"
+    },
+    {
+      "id": "8",
+      "title": "Site Reliability Engineer",
+      "category": "Technology",
+      "salaryRange": "$75,000 - $140,000",
+      "growth": "High",
+      "matchTags": [
+        "technology",
+        "software",
+        "coding",
+        "engineering",
+        "site",
+        "reliability"
+      ],
+      "description": "Site Reliability Engineer helps organizations by applying technology knowledge and practical skills to deliver results.",
+      "skills": [
+        "Problem Solving",
+        "Coding",
+        "Debugging",
+        "Site",
+        "Reliability"
+      ],
+      "education": "Technology degree or relevant experience",
+      "outlook": "Strong demand in digital transformation",
+      "icon": "code-slash-outline"
+    },
+    {
+      "id": "9",
+      "title": "QA Engineer",
+      "category": "Technology",
+      "salaryRange": "$75,000 - $140,000",
+      "growth": "High",
+      "matchTags": [
+        "technology",
+        "software",
+        "coding",
+        "engineering",
+        "qa",
+        "engineer"
+      ],
+      "description": "QA Engineer helps organizations by applying technology knowledge and practical skills to deliver results.",
+      "skills": [
+        "Problem Solving",
+        "Coding",
+        "Debugging",
+        "Qa",
+        "Engineer"
+      ],
+      "education": "Technology degree or relevant experience",
+      "outlook": "Strong demand in digital transformation",
+      "icon": "code-slash-outline"
+    },
+    {
+      "id": "10",
+      "title": "AI Engineer",
+      "category": "Technology",
+      "salaryRange": "$75,000 - $140,000",
+      "growth": "High",
+      "matchTags": [
+        "technology",
+        "software",
+        "coding",
+        "engineering",
+        "ai",
+        "engineer"
+      ],
+      "description": "AI Engineer helps organizations by applying technology knowledge and practical skills to deliver results.",
+      "skills": [
+        "Problem Solving",
+        "Coding",
+        "Debugging",
+        "Ai",
+        "Engineer"
+      ],
+      "education": "Technology degree or relevant experience",
+      "outlook": "Strong demand in digital transformation",
+      "icon": "code-slash-outline"
+    },
+    {
+      "id": "11",
+      "title": "Financial Analyst",
+      "category": "Finance",
+      "salaryRange": "$65,000 - $150,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "finance",
+        "investment",
+        "analysis",
+        "money",
+        "financial",
+        "analyst"
+      ],
+      "description": "Financial Analyst helps organizations by applying finance knowledge and practical skills to deliver results.",
+      "skills": [
+        "Analysis",
+        "Excel",
+        "Modeling",
+        "Financial",
+        "Analyst"
+      ],
+      "education": "Finance degree or relevant experience",
+      "outlook": "Stable demand across financial services",
+      "icon": "trending-up-outline"
+    },
+    {
+      "id": "12",
+      "title": "Investment Analyst",
+      "category": "Finance",
+      "salaryRange": "$65,000 - $150,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "finance",
+        "investment",
+        "analysis",
+        "money",
+        "analyst"
+      ],
+      "description": "Investment Analyst helps organizations by applying finance knowledge and practical skills to deliver results.",
+      "skills": [
+        "Analysis",
+        "Excel",
+        "Modeling",
+        "Investment",
+        "Analyst"
+      ],
+      "education": "Finance degree or relevant experience",
+      "outlook": "Stable demand across financial services",
+      "icon": "trending-up-outline"
+    },
+    {
+      "id": "13",
+      "title": "Portfolio Manager",
+      "category": "Finance",
+      "salaryRange": "$65,000 - $150,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "finance",
+        "investment",
+        "analysis",
+        "money",
+        "portfolio",
+        "manager"
+      ],
+      "description": "Portfolio Manager helps organizations by applying finance knowledge and practical skills to deliver results.",
+      "skills": [
+        "Analysis",
+        "Excel",
+        "Modeling",
+        "Portfolio",
+        "Manager"
+      ],
+      "education": "Finance degree or relevant experience",
+      "outlook": "Stable demand across financial services",
+      "icon": "trending-up-outline"
+    },
+    {
+      "id": "14",
+      "title": "Stock Trader",
+      "category": "Finance",
+      "salaryRange": "$65,000 - $150,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "finance",
+        "investment",
+        "analysis",
+        "money",
+        "stock",
+        "trader"
+      ],
+      "description": "Stock Trader helps organizations by applying finance knowledge and practical skills to deliver results.",
+      "skills": [
+        "Analysis",
+        "Excel",
+        "Modeling",
+        "Stock",
+        "Trader"
+      ],
+      "education": "Finance degree or relevant experience",
+      "outlook": "Stable demand across financial services",
+      "icon": "trending-up-outline"
+    },
+    {
+      "id": "15",
+      "title": "Wealth Advisor",
+      "category": "Finance",
+      "salaryRange": "$65,000 - $150,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "finance",
+        "investment",
+        "analysis",
+        "money",
+        "wealth",
+        "advisor"
+      ],
+      "description": "Wealth Advisor helps organizations by applying finance knowledge and practical skills to deliver results.",
+      "skills": [
+        "Analysis",
+        "Excel",
+        "Modeling",
+        "Wealth",
+        "Advisor"
+      ],
+      "education": "Finance degree or relevant experience",
+      "outlook": "Stable demand across financial services",
+      "icon": "trending-up-outline"
+    },
+    {
+      "id": "16",
+      "title": "Risk Analyst",
+      "category": "Finance",
+      "salaryRange": "$65,000 - $150,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "finance",
+        "investment",
+        "analysis",
+        "money",
+        "risk",
+        "analyst"
+      ],
+      "description": "Risk Analyst helps organizations by applying finance knowledge and practical skills to deliver results.",
+      "skills": [
+        "Analysis",
+        "Excel",
+        "Modeling",
+        "Risk",
+        "Analyst"
+      ],
+      "education": "Finance degree or relevant experience",
+      "outlook": "Stable demand across financial services",
+      "icon": "trending-up-outline"
+    },
+    {
+      "id": "17",
+      "title": "Compliance Officer",
+      "category": "Finance",
+      "salaryRange": "$65,000 - $150,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "finance",
+        "investment",
+        "analysis",
+        "money",
+        "compliance",
+        "officer"
+      ],
+      "description": "Compliance Officer helps organizations by applying finance knowledge and practical skills to deliver results.",
+      "skills": [
+        "Analysis",
+        "Excel",
+        "Modeling",
+        "Compliance",
+        "Officer"
+      ],
+      "education": "Finance degree or relevant experience",
+      "outlook": "Stable demand across financial services",
+      "icon": "trending-up-outline"
+    },
+    {
+      "id": "18",
+      "title": "Credit Analyst",
+      "category": "Finance",
+      "salaryRange": "$65,000 - $150,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "finance",
+        "investment",
+        "analysis",
+        "money",
+        "credit",
+        "analyst"
+      ],
+      "description": "Credit Analyst helps organizations by applying finance knowledge and practical skills to deliver results.",
+      "skills": [
+        "Analysis",
+        "Excel",
+        "Modeling",
+        "Credit",
+        "Analyst"
+      ],
+      "education": "Finance degree or relevant experience",
+      "outlook": "Stable demand across financial services",
+      "icon": "trending-up-outline"
+    },
+    {
+      "id": "19",
+      "title": "Audit Manager",
+      "category": "Finance",
+      "salaryRange": "$65,000 - $150,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "finance",
+        "investment",
+        "analysis",
+        "money",
+        "audit",
+        "manager"
+      ],
+      "description": "Audit Manager helps organizations by applying finance knowledge and practical skills to deliver results.",
+      "skills": [
+        "Analysis",
+        "Excel",
+        "Modeling",
+        "Audit",
+        "Manager"
+      ],
+      "education": "Finance degree or relevant experience",
+      "outlook": "Stable demand across financial services",
+      "icon": "trending-up-outline"
+    },
+    {
+      "id": "20",
+      "title": "Tax Analyst",
+      "category": "Finance",
+      "salaryRange": "$65,000 - $150,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "finance",
+        "investment",
+        "analysis",
+        "money",
+        "tax",
+        "analyst"
+      ],
+      "description": "Tax Analyst helps organizations by applying finance knowledge and practical skills to deliver results.",
+      "skills": [
+        "Analysis",
+        "Excel",
+        "Modeling",
+        "Tax",
+        "Analyst"
+      ],
+      "education": "Finance degree or relevant experience",
+      "outlook": "Stable demand across financial services",
+      "icon": "trending-up-outline"
+    },
+    {
+      "id": "21",
+      "title": "Digital Marketing Specialist",
+      "category": "Marketing",
+      "salaryRange": "$50,000 - $110,000",
+      "growth": "High",
+      "matchTags": [
+        "marketing",
+        "brand",
+        "growth",
+        "audience",
+        "digital",
+        "specialist"
+      ],
+      "description": "Digital Marketing Specialist helps organizations by applying marketing knowledge and practical skills to deliver results.",
+      "skills": [
+        "Communication",
+        "Analytics",
+        "Creativity",
+        "Digital",
+        "Marketing"
+      ],
+      "education": "Marketing degree or relevant experience",
+      "outlook": "Growing as digital channels expand",
+      "icon": "megaphone-outline"
+    },
+    {
+      "id": "22",
+      "title": "Content Strategist",
+      "category": "Marketing",
+      "salaryRange": "$50,000 - $110,000",
+      "growth": "High",
+      "matchTags": [
+        "marketing",
+        "brand",
+        "growth",
+        "audience",
+        "content",
+        "strategist"
+      ],
+      "description": "Content Strategist helps organizations by applying marketing knowledge and practical skills to deliver results.",
+      "skills": [
+        "Communication",
+        "Analytics",
+        "Creativity",
+        "Content",
+        "Strategist"
+      ],
+      "education": "Marketing degree or relevant experience",
+      "outlook": "Growing as digital channels expand",
+      "icon": "megaphone-outline"
+    },
+    {
+      "id": "23",
+      "title": "SEO Specialist",
+      "category": "Marketing",
+      "salaryRange": "$50,000 - $110,000",
+      "growth": "High",
+      "matchTags": [
+        "marketing",
+        "brand",
+        "growth",
+        "audience",
+        "seo",
+        "specialist"
+      ],
+      "description": "SEO Specialist helps organizations by applying marketing knowledge and practical skills to deliver results.",
+      "skills": [
+        "Communication",
+        "Analytics",
+        "Creativity",
+        "Seo",
+        "Specialist"
+      ],
+      "education": "Marketing degree or relevant experience",
+      "outlook": "Growing as digital channels expand",
+      "icon": "megaphone-outline"
+    },
+    {
+      "id": "24",
+      "title": "Social Media Manager",
+      "category": "Marketing",
+      "salaryRange": "$50,000 - $110,000",
+      "growth": "High",
+      "matchTags": [
+        "marketing",
+        "brand",
+        "growth",
+        "audience",
+        "social",
+        "media"
+      ],
+      "description": "Social Media Manager helps organizations by applying marketing knowledge and practical skills to deliver results.",
+      "skills": [
+        "Communication",
+        "Analytics",
+        "Creativity",
+        "Social",
+        "Media"
+      ],
+      "education": "Marketing degree or relevant experience",
+      "outlook": "Growing as digital channels expand",
+      "icon": "megaphone-outline"
+    },
+    {
+      "id": "25",
+      "title": "Brand Manager",
+      "category": "Marketing",
+      "salaryRange": "$50,000 - $110,000",
+      "growth": "High",
+      "matchTags": [
+        "marketing",
+        "brand",
+        "growth",
+        "audience",
+        "manager"
+      ],
+      "description": "Brand Manager helps organizations by applying marketing knowledge and practical skills to deliver results.",
+      "skills": [
+        "Communication",
+        "Analytics",
+        "Creativity",
+        "Brand",
+        "Manager"
+      ],
+      "education": "Marketing degree or relevant experience",
+      "outlook": "Growing as digital channels expand",
+      "icon": "megaphone-outline"
+    },
+    {
+      "id": "26",
+      "title": "Growth Marketer",
+      "category": "Marketing",
+      "salaryRange": "$50,000 - $110,000",
+      "growth": "High",
+      "matchTags": [
+        "marketing",
+        "brand",
+        "growth",
+        "audience",
+        "marketer"
+      ],
+      "description": "Growth Marketer helps organizations by applying marketing knowledge and practical skills to deliver results.",
+      "skills": [
+        "Communication",
+        "Analytics",
+        "Creativity",
+        "Growth",
+        "Marketer"
+      ],
+      "education": "Marketing degree or relevant experience",
+      "outlook": "Growing as digital channels expand",
+      "icon": "megaphone-outline"
+    },
+    {
+      "id": "27",
+      "title": "Email Marketing Specialist",
+      "category": "Marketing",
+      "salaryRange": "$50,000 - $110,000",
+      "growth": "High",
+      "matchTags": [
+        "marketing",
+        "brand",
+        "growth",
+        "audience",
+        "email",
+        "specialist"
+      ],
+      "description": "Email Marketing Specialist helps organizations by applying marketing knowledge and practical skills to deliver results.",
+      "skills": [
+        "Communication",
+        "Analytics",
+        "Creativity",
+        "Email",
+        "Marketing"
+      ],
+      "education": "Marketing degree or relevant experience",
+      "outlook": "Growing as digital channels expand",
+      "icon": "megaphone-outline"
+    },
+    {
+      "id": "28",
+      "title": "PPC Analyst",
+      "category": "Marketing",
+      "salaryRange": "$50,000 - $110,000",
+      "growth": "High",
+      "matchTags": [
+        "marketing",
+        "brand",
+        "growth",
+        "audience",
+        "ppc",
+        "analyst"
+      ],
+      "description": "PPC Analyst helps organizations by applying marketing knowledge and practical skills to deliver results.",
+      "skills": [
+        "Communication",
+        "Analytics",
+        "Creativity",
+        "Ppc",
+        "Analyst"
+      ],
+      "education": "Marketing degree or relevant experience",
+      "outlook": "Growing as digital channels expand",
+      "icon": "megaphone-outline"
+    },
+    {
+      "id": "29",
+      "title": "Product Marketer",
+      "category": "Marketing",
+      "salaryRange": "$50,000 - $110,000",
+      "growth": "High",
+      "matchTags": [
+        "marketing",
+        "brand",
+        "growth",
+        "audience",
+        "product",
+        "marketer"
+      ],
+      "description": "Product Marketer helps organizations by applying marketing knowledge and practical skills to deliver results.",
+      "skills": [
+        "Communication",
+        "Analytics",
+        "Creativity",
+        "Product",
+        "Marketer"
+      ],
+      "education": "Marketing degree or relevant experience",
+      "outlook": "Growing as digital channels expand",
+      "icon": "megaphone-outline"
+    },
+    {
+      "id": "30",
+      "title": "Community Manager",
+      "category": "Marketing",
+      "salaryRange": "$50,000 - $110,000",
+      "growth": "High",
+      "matchTags": [
+        "marketing",
+        "brand",
+        "growth",
+        "audience",
+        "community",
+        "manager"
+      ],
+      "description": "Community Manager helps organizations by applying marketing knowledge and practical skills to deliver results.",
+      "skills": [
+        "Communication",
+        "Analytics",
+        "Creativity",
+        "Community",
+        "Manager"
+      ],
+      "education": "Marketing degree or relevant experience",
+      "outlook": "Growing as digital channels expand",
+      "icon": "megaphone-outline"
+    },
+    {
+      "id": "31",
+      "title": "UX/UI Designer",
+      "category": "Design",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "design",
+        "creativity",
+        "experience",
+        "visual",
+        "ux",
+        "ui"
+      ],
+      "description": "UX/UI Designer helps organizations by applying design knowledge and practical skills to deliver results.",
+      "skills": [
+        "Creativity",
+        "Visual Design",
+        "Research",
+        "Ux",
+        "Ui"
+      ],
+      "education": "Design degree or relevant experience",
+      "outlook": "Consistent need for product and service design",
+      "icon": "color-palette-outline"
+    },
+    {
+      "id": "32",
+      "title": "Graphic Designer",
+      "category": "Design",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "design",
+        "creativity",
+        "experience",
+        "visual",
+        "graphic",
+        "designer"
+      ],
+      "description": "Graphic Designer helps organizations by applying design knowledge and practical skills to deliver results.",
+      "skills": [
+        "Creativity",
+        "Visual Design",
+        "Research",
+        "Graphic",
+        "Designer"
+      ],
+      "education": "Design degree or relevant experience",
+      "outlook": "Consistent need for product and service design",
+      "icon": "color-palette-outline"
+    },
+    {
+      "id": "33",
+      "title": "Product Designer",
+      "category": "Design",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "design",
+        "creativity",
+        "experience",
+        "visual",
+        "product",
+        "designer"
+      ],
+      "description": "Product Designer helps organizations by applying design knowledge and practical skills to deliver results.",
+      "skills": [
+        "Creativity",
+        "Visual Design",
+        "Research",
+        "Product",
+        "Designer"
+      ],
+      "education": "Design degree or relevant experience",
+      "outlook": "Consistent need for product and service design",
+      "icon": "color-palette-outline"
+    },
+    {
+      "id": "34",
+      "title": "Visual Designer",
+      "category": "Design",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "design",
+        "creativity",
+        "experience",
+        "visual",
+        "designer"
+      ],
+      "description": "Visual Designer helps organizations by applying design knowledge and practical skills to deliver results.",
+      "skills": [
+        "Creativity",
+        "Visual Design",
+        "Research",
+        "Visual",
+        "Designer"
+      ],
+      "education": "Design degree or relevant experience",
+      "outlook": "Consistent need for product and service design",
+      "icon": "color-palette-outline"
+    },
+    {
+      "id": "35",
+      "title": "Motion Designer",
+      "category": "Design",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "design",
+        "creativity",
+        "experience",
+        "visual",
+        "motion",
+        "designer"
+      ],
+      "description": "Motion Designer helps organizations by applying design knowledge and practical skills to deliver results.",
+      "skills": [
+        "Creativity",
+        "Visual Design",
+        "Research",
+        "Motion",
+        "Designer"
+      ],
+      "education": "Design degree or relevant experience",
+      "outlook": "Consistent need for product and service design",
+      "icon": "color-palette-outline"
+    },
+    {
+      "id": "36",
+      "title": "Interaction Designer",
+      "category": "Design",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "design",
+        "creativity",
+        "experience",
+        "visual",
+        "interaction",
+        "designer"
+      ],
+      "description": "Interaction Designer helps organizations by applying design knowledge and practical skills to deliver results.",
+      "skills": [
+        "Creativity",
+        "Visual Design",
+        "Research",
+        "Interaction",
+        "Designer"
+      ],
+      "education": "Design degree or relevant experience",
+      "outlook": "Consistent need for product and service design",
+      "icon": "color-palette-outline"
+    },
+    {
+      "id": "37",
+      "title": "Design Researcher",
+      "category": "Design",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "design",
+        "creativity",
+        "experience",
+        "visual",
+        "researcher"
+      ],
+      "description": "Design Researcher helps organizations by applying design knowledge and practical skills to deliver results.",
+      "skills": [
+        "Creativity",
+        "Visual Design",
+        "Research",
+        "Design",
+        "Researcher"
+      ],
+      "education": "Design degree or relevant experience",
+      "outlook": "Consistent need for product and service design",
+      "icon": "color-palette-outline"
+    },
+    {
+      "id": "38",
+      "title": "Service Designer",
+      "category": "Design",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "design",
+        "creativity",
+        "experience",
+        "visual",
+        "service",
+        "designer"
+      ],
+      "description": "Service Designer helps organizations by applying design knowledge and practical skills to deliver results.",
+      "skills": [
+        "Creativity",
+        "Visual Design",
+        "Research",
+        "Service",
+        "Designer"
+      ],
+      "education": "Design degree or relevant experience",
+      "outlook": "Consistent need for product and service design",
+      "icon": "color-palette-outline"
+    },
+    {
+      "id": "39",
+      "title": "Architecture Designer",
+      "category": "Design",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "design",
+        "creativity",
+        "experience",
+        "visual",
+        "architecture",
+        "designer"
+      ],
+      "description": "Architecture Designer helps organizations by applying design knowledge and practical skills to deliver results.",
+      "skills": [
+        "Creativity",
+        "Visual Design",
+        "Research",
+        "Architecture",
+        "Designer"
+      ],
+      "education": "Design degree or relevant experience",
+      "outlook": "Consistent need for product and service design",
+      "icon": "color-palette-outline"
+    },
+    {
+      "id": "40",
+      "title": "Illustration Designer",
+      "category": "Design",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "design",
+        "creativity",
+        "experience",
+        "visual",
+        "illustration",
+        "designer"
+      ],
+      "description": "Illustration Designer helps organizations by applying design knowledge and practical skills to deliver results.",
+      "skills": [
+        "Creativity",
+        "Visual Design",
+        "Research",
+        "Illustration",
+        "Designer"
+      ],
+      "education": "Design degree or relevant experience",
+      "outlook": "Consistent need for product and service design",
+      "icon": "color-palette-outline"
+    },
+    {
+      "id": "41",
+      "title": "Business Analyst",
+      "category": "Business",
+      "salaryRange": "$60,000 - $130,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "business",
+        "operations",
+        "management",
+        "strategy",
+        "analyst"
+      ],
+      "description": "Business Analyst helps organizations by applying business knowledge and practical skills to deliver results.",
+      "skills": [
+        "Leadership",
+        "Analysis",
+        "Planning",
+        "Business",
+        "Analyst"
+      ],
+      "education": "Business degree or relevant experience",
+      "outlook": "Reliable demand across industries",
+      "icon": "briefcase-outline"
+    },
+    {
+      "id": "42",
+      "title": "Operations Manager",
+      "category": "Business",
+      "salaryRange": "$60,000 - $130,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "business",
+        "operations",
+        "management",
+        "strategy",
+        "manager"
+      ],
+      "description": "Operations Manager helps organizations by applying business knowledge and practical skills to deliver results.",
+      "skills": [
+        "Leadership",
+        "Analysis",
+        "Planning",
+        "Operations",
+        "Manager"
+      ],
+      "education": "Business degree or relevant experience",
+      "outlook": "Reliable demand across industries",
+      "icon": "briefcase-outline"
+    },
+    {
+      "id": "43",
+      "title": "Project Manager",
+      "category": "Business",
+      "salaryRange": "$60,000 - $130,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "business",
+        "operations",
+        "management",
+        "strategy",
+        "project",
+        "manager"
+      ],
+      "description": "Project Manager helps organizations by applying business knowledge and practical skills to deliver results.",
+      "skills": [
+        "Leadership",
+        "Analysis",
+        "Planning",
+        "Project",
+        "Manager"
+      ],
+      "education": "Business degree or relevant experience",
+      "outlook": "Reliable demand across industries",
+      "icon": "briefcase-outline"
+    },
+    {
+      "id": "44",
+      "title": "Program Manager",
+      "category": "Business",
+      "salaryRange": "$60,000 - $130,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "business",
+        "operations",
+        "management",
+        "strategy",
+        "program",
+        "manager"
+      ],
+      "description": "Program Manager helps organizations by applying business knowledge and practical skills to deliver results.",
+      "skills": [
+        "Leadership",
+        "Analysis",
+        "Planning",
+        "Program",
+        "Manager"
+      ],
+      "education": "Business degree or relevant experience",
+      "outlook": "Reliable demand across industries",
+      "icon": "briefcase-outline"
+    },
+    {
+      "id": "45",
+      "title": "Change Manager",
+      "category": "Business",
+      "salaryRange": "$60,000 - $130,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "business",
+        "operations",
+        "management",
+        "strategy",
+        "change",
+        "manager"
+      ],
+      "description": "Change Manager helps organizations by applying business knowledge and practical skills to deliver results.",
+      "skills": [
+        "Leadership",
+        "Analysis",
+        "Planning",
+        "Change",
+        "Manager"
+      ],
+      "education": "Business degree or relevant experience",
+      "outlook": "Reliable demand across industries",
+      "icon": "briefcase-outline"
+    },
+    {
+      "id": "46",
+      "title": "Strategy Consultant",
+      "category": "Business",
+      "salaryRange": "$60,000 - $130,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "business",
+        "operations",
+        "management",
+        "strategy",
+        "consultant"
+      ],
+      "description": "Strategy Consultant helps organizations by applying business knowledge and practical skills to deliver results.",
+      "skills": [
+        "Leadership",
+        "Analysis",
+        "Planning",
+        "Strategy",
+        "Consultant"
+      ],
+      "education": "Business degree or relevant experience",
+      "outlook": "Reliable demand across industries",
+      "icon": "briefcase-outline"
+    },
+    {
+      "id": "47",
+      "title": "Management Consultant",
+      "category": "Business",
+      "salaryRange": "$60,000 - $130,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "business",
+        "operations",
+        "management",
+        "strategy",
+        "consultant"
+      ],
+      "description": "Management Consultant helps organizations by applying business knowledge and practical skills to deliver results.",
+      "skills": [
+        "Leadership",
+        "Analysis",
+        "Planning",
+        "Management",
+        "Consultant"
+      ],
+      "education": "Business degree or relevant experience",
+      "outlook": "Reliable demand across industries",
+      "icon": "briefcase-outline"
+    },
+    {
+      "id": "48",
+      "title": "Sales Manager",
+      "category": "Business",
+      "salaryRange": "$60,000 - $130,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "business",
+        "operations",
+        "management",
+        "strategy",
+        "sales",
+        "manager"
+      ],
+      "description": "Sales Manager helps organizations by applying business knowledge and practical skills to deliver results.",
+      "skills": [
+        "Leadership",
+        "Analysis",
+        "Planning",
+        "Sales",
+        "Manager"
+      ],
+      "education": "Business degree or relevant experience",
+      "outlook": "Reliable demand across industries",
+      "icon": "briefcase-outline"
+    },
+    {
+      "id": "49",
+      "title": "Account Manager",
+      "category": "Business",
+      "salaryRange": "$60,000 - $130,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "business",
+        "operations",
+        "management",
+        "strategy",
+        "account",
+        "manager"
+      ],
+      "description": "Account Manager helps organizations by applying business knowledge and practical skills to deliver results.",
+      "skills": [
+        "Leadership",
+        "Analysis",
+        "Planning",
+        "Account",
+        "Manager"
+      ],
+      "education": "Business degree or relevant experience",
+      "outlook": "Reliable demand across industries",
+      "icon": "briefcase-outline"
+    },
+    {
+      "id": "50",
+      "title": "Customer Success Manager",
+      "category": "Business",
+      "salaryRange": "$60,000 - $130,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "business",
+        "operations",
+        "management",
+        "strategy",
+        "customer",
+        "success"
+      ],
+      "description": "Customer Success Manager helps organizations by applying business knowledge and practical skills to deliver results.",
+      "skills": [
+        "Leadership",
+        "Analysis",
+        "Planning",
+        "Customer",
+        "Success"
+      ],
+      "education": "Business degree or relevant experience",
+      "outlook": "Reliable demand across industries",
+      "icon": "briefcase-outline"
+    },
+    {
+      "id": "51",
+      "title": "Healthcare Administrator",
+      "category": "Healthcare",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "healthcare",
+        "wellness",
+        "medical",
+        "patient",
+        "administrator"
+      ],
+      "description": "Healthcare Administrator helps organizations by applying healthcare knowledge and practical skills to deliver results.",
+      "skills": [
+        "Care",
+        "Administration",
+        "Research",
+        "Healthcare",
+        "Administrator"
+      ],
+      "education": "Healthcare degree or relevant experience",
+      "outlook": "Growing demand in health services and wellness",
+      "icon": "medkit-outline"
+    },
+    {
+      "id": "52",
+      "title": "Clinical Data Analyst",
+      "category": "Healthcare",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "healthcare",
+        "wellness",
+        "medical",
+        "patient",
+        "clinical",
+        "data"
+      ],
+      "description": "Clinical Data Analyst helps organizations by applying healthcare knowledge and practical skills to deliver results.",
+      "skills": [
+        "Care",
+        "Administration",
+        "Research",
+        "Clinical",
+        "Data"
+      ],
+      "education": "Healthcare degree or relevant experience",
+      "outlook": "Growing demand in health services and wellness",
+      "icon": "medkit-outline"
+    },
+    {
+      "id": "53",
+      "title": "Health Informatics Specialist",
+      "category": "Healthcare",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "healthcare",
+        "wellness",
+        "medical",
+        "patient",
+        "health",
+        "informatics"
+      ],
+      "description": "Health Informatics Specialist helps organizations by applying healthcare knowledge and practical skills to deliver results.",
+      "skills": [
+        "Care",
+        "Administration",
+        "Research",
+        "Health",
+        "Informatics"
+      ],
+      "education": "Healthcare degree or relevant experience",
+      "outlook": "Growing demand in health services and wellness",
+      "icon": "medkit-outline"
+    },
+    {
+      "id": "54",
+      "title": "Medical Office Manager",
+      "category": "Healthcare",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "healthcare",
+        "wellness",
+        "medical",
+        "patient",
+        "office",
+        "manager"
+      ],
+      "description": "Medical Office Manager helps organizations by applying healthcare knowledge and practical skills to deliver results.",
+      "skills": [
+        "Care",
+        "Administration",
+        "Research",
+        "Medical",
+        "Office"
+      ],
+      "education": "Healthcare degree or relevant experience",
+      "outlook": "Growing demand in health services and wellness",
+      "icon": "medkit-outline"
+    },
+    {
+      "id": "55",
+      "title": "Patient Advocate",
+      "category": "Healthcare",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "healthcare",
+        "wellness",
+        "medical",
+        "patient",
+        "advocate"
+      ],
+      "description": "Patient Advocate helps organizations by applying healthcare knowledge and practical skills to deliver results.",
+      "skills": [
+        "Care",
+        "Administration",
+        "Research",
+        "Patient",
+        "Advocate"
+      ],
+      "education": "Healthcare degree or relevant experience",
+      "outlook": "Growing demand in health services and wellness",
+      "icon": "medkit-outline"
+    },
+    {
+      "id": "56",
+      "title": "Public Health Analyst",
+      "category": "Healthcare",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "healthcare",
+        "wellness",
+        "medical",
+        "patient",
+        "public",
+        "health"
+      ],
+      "description": "Public Health Analyst helps organizations by applying healthcare knowledge and practical skills to deliver results.",
+      "skills": [
+        "Care",
+        "Administration",
+        "Research",
+        "Public",
+        "Health"
+      ],
+      "education": "Healthcare degree or relevant experience",
+      "outlook": "Growing demand in health services and wellness",
+      "icon": "medkit-outline"
+    },
+    {
+      "id": "57",
+      "title": "Wellness Coach",
+      "category": "Healthcare",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "healthcare",
+        "wellness",
+        "medical",
+        "patient",
+        "coach"
+      ],
+      "description": "Wellness Coach helps organizations by applying healthcare knowledge and practical skills to deliver results.",
+      "skills": [
+        "Care",
+        "Administration",
+        "Research",
+        "Wellness",
+        "Coach"
+      ],
+      "education": "Healthcare degree or relevant experience",
+      "outlook": "Growing demand in health services and wellness",
+      "icon": "medkit-outline"
+    },
+    {
+      "id": "58",
+      "title": "Nursing Supervisor",
+      "category": "Healthcare",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "healthcare",
+        "wellness",
+        "medical",
+        "patient",
+        "nursing",
+        "supervisor"
+      ],
+      "description": "Nursing Supervisor helps organizations by applying healthcare knowledge and practical skills to deliver results.",
+      "skills": [
+        "Care",
+        "Administration",
+        "Research",
+        "Nursing",
+        "Supervisor"
+      ],
+      "education": "Healthcare degree or relevant experience",
+      "outlook": "Growing demand in health services and wellness",
+      "icon": "medkit-outline"
+    },
+    {
+      "id": "59",
+      "title": "Medical Research Coordinator",
+      "category": "Healthcare",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "healthcare",
+        "wellness",
+        "medical",
+        "patient",
+        "research",
+        "coordinator"
+      ],
+      "description": "Medical Research Coordinator helps organizations by applying healthcare knowledge and practical skills to deliver results.",
+      "skills": [
+        "Care",
+        "Administration",
+        "Research",
+        "Medical",
+        "Coordinator"
+      ],
+      "education": "Healthcare degree or relevant experience",
+      "outlook": "Growing demand in health services and wellness",
+      "icon": "medkit-outline"
+    },
+    {
+      "id": "60",
+      "title": "Healthcare Consultant",
+      "category": "Healthcare",
+      "salaryRange": "$55,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "healthcare",
+        "wellness",
+        "medical",
+        "patient",
+        "consultant"
+      ],
+      "description": "Healthcare Consultant helps organizations by applying healthcare knowledge and practical skills to deliver results.",
+      "skills": [
+        "Care",
+        "Administration",
+        "Research",
+        "Healthcare",
+        "Consultant"
+      ],
+      "education": "Healthcare degree or relevant experience",
+      "outlook": "Growing demand in health services and wellness",
+      "icon": "medkit-outline"
+    },
+    {
+      "id": "61",
+      "title": "Instructional Designer",
+      "category": "Education",
+      "salaryRange": "$45,000 - $100,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "education",
+        "learning",
+        "teaching",
+        "training",
+        "instructional",
+        "designer"
+      ],
+      "description": "Instructional Designer helps organizations by applying education knowledge and practical skills to deliver results.",
+      "skills": [
+        "Teaching",
+        "Instruction",
+        "Curriculum",
+        "Instructional",
+        "Designer"
+      ],
+      "education": "Education degree or relevant experience",
+      "outlook": "Ongoing need for skilled educators and trainers",
+      "icon": "school-outline"
+    },
+    {
+      "id": "62",
+      "title": "Curriculum Developer",
+      "category": "Education",
+      "salaryRange": "$45,000 - $100,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "education",
+        "learning",
+        "teaching",
+        "training",
+        "curriculum",
+        "developer"
+      ],
+      "description": "Curriculum Developer helps organizations by applying education knowledge and practical skills to deliver results.",
+      "skills": [
+        "Teaching",
+        "Instruction",
+        "Curriculum",
+        "Developer"
+      ],
+      "education": "Education degree or relevant experience",
+      "outlook": "Ongoing need for skilled educators and trainers",
+      "icon": "school-outline"
+    },
+    {
+      "id": "63",
+      "title": "Academic Advisor",
+      "category": "Education",
+      "salaryRange": "$45,000 - $100,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "education",
+        "learning",
+        "teaching",
+        "training",
+        "academic",
+        "advisor"
+      ],
+      "description": "Academic Advisor helps organizations by applying education knowledge and practical skills to deliver results.",
+      "skills": [
+        "Teaching",
+        "Instruction",
+        "Curriculum",
+        "Academic",
+        "Advisor"
+      ],
+      "education": "Education degree or relevant experience",
+      "outlook": "Ongoing need for skilled educators and trainers",
+      "icon": "school-outline"
+    },
+    {
+      "id": "64",
+      "title": "Learning Experience Designer",
+      "category": "Education",
+      "salaryRange": "$45,000 - $100,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "education",
+        "learning",
+        "teaching",
+        "training",
+        "experience",
+        "designer"
+      ],
+      "description": "Learning Experience Designer helps organizations by applying education knowledge and practical skills to deliver results.",
+      "skills": [
+        "Teaching",
+        "Instruction",
+        "Curriculum",
+        "Learning",
+        "Experience"
+      ],
+      "education": "Education degree or relevant experience",
+      "outlook": "Ongoing need for skilled educators and trainers",
+      "icon": "school-outline"
+    },
+    {
+      "id": "65",
+      "title": "Training Specialist",
+      "category": "Education",
+      "salaryRange": "$45,000 - $100,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "education",
+        "learning",
+        "teaching",
+        "training",
+        "specialist"
+      ],
+      "description": "Training Specialist helps organizations by applying education knowledge and practical skills to deliver results.",
+      "skills": [
+        "Teaching",
+        "Instruction",
+        "Curriculum",
+        "Training",
+        "Specialist"
+      ],
+      "education": "Education degree or relevant experience",
+      "outlook": "Ongoing need for skilled educators and trainers",
+      "icon": "school-outline"
+    },
+    {
+      "id": "66",
+      "title": "Education Technology Manager",
+      "category": "Education",
+      "salaryRange": "$45,000 - $100,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "education",
+        "learning",
+        "teaching",
+        "training",
+        "technology",
+        "manager"
+      ],
+      "description": "Education Technology Manager helps organizations by applying education knowledge and practical skills to deliver results.",
+      "skills": [
+        "Teaching",
+        "Instruction",
+        "Curriculum",
+        "Education",
+        "Technology"
+      ],
+      "education": "Education degree or relevant experience",
+      "outlook": "Ongoing need for skilled educators and trainers",
+      "icon": "school-outline"
+    },
+    {
+      "id": "67",
+      "title": "Corporate Trainer",
+      "category": "Education",
+      "salaryRange": "$45,000 - $100,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "education",
+        "learning",
+        "teaching",
+        "training",
+        "corporate",
+        "trainer"
+      ],
+      "description": "Corporate Trainer helps organizations by applying education knowledge and practical skills to deliver results.",
+      "skills": [
+        "Teaching",
+        "Instruction",
+        "Curriculum",
+        "Corporate",
+        "Trainer"
+      ],
+      "education": "Education degree or relevant experience",
+      "outlook": "Ongoing need for skilled educators and trainers",
+      "icon": "school-outline"
+    },
+    {
+      "id": "68",
+      "title": "Career Counselor",
+      "category": "Education",
+      "salaryRange": "$45,000 - $100,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "education",
+        "learning",
+        "teaching",
+        "training",
+        "career",
+        "counselor"
+      ],
+      "description": "Career Counselor helps organizations by applying education knowledge and practical skills to deliver results.",
+      "skills": [
+        "Teaching",
+        "Instruction",
+        "Curriculum",
+        "Career",
+        "Counselor"
+      ],
+      "education": "Education degree or relevant experience",
+      "outlook": "Ongoing need for skilled educators and trainers",
+      "icon": "school-outline"
+    },
+    {
+      "id": "69",
+      "title": "School Principal",
+      "category": "Education",
+      "salaryRange": "$45,000 - $100,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "education",
+        "learning",
+        "teaching",
+        "training",
+        "school",
+        "principal"
+      ],
+      "description": "School Principal helps organizations by applying education knowledge and practical skills to deliver results.",
+      "skills": [
+        "Teaching",
+        "Instruction",
+        "Curriculum",
+        "School",
+        "Principal"
+      ],
+      "education": "Education degree or relevant experience",
+      "outlook": "Ongoing need for skilled educators and trainers",
+      "icon": "school-outline"
+    },
+    {
+      "id": "70",
+      "title": "Literacy Specialist",
+      "category": "Education",
+      "salaryRange": "$45,000 - $100,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "education",
+        "learning",
+        "teaching",
+        "training",
+        "literacy",
+        "specialist"
+      ],
+      "description": "Literacy Specialist helps organizations by applying education knowledge and practical skills to deliver results.",
+      "skills": [
+        "Teaching",
+        "Instruction",
+        "Curriculum",
+        "Literacy",
+        "Specialist"
+      ],
+      "education": "Education degree or relevant experience",
+      "outlook": "Ongoing need for skilled educators and trainers",
+      "icon": "school-outline"
+    },
+    {
+      "id": "71",
+      "title": "Sustainability Consultant",
+      "category": "Environment",
+      "salaryRange": "$60,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "environment",
+        "sustainability",
+        "climate",
+        "energy",
+        "consultant"
+      ],
+      "description": "Sustainability Consultant helps organizations by applying environment knowledge and practical skills to deliver results.",
+      "skills": [
+        "Sustainability",
+        "Analysis",
+        "Policy",
+        "Consultant"
+      ],
+      "education": "Environment degree or relevant experience",
+      "outlook": "Increasing importance of ESG and climate planning",
+      "icon": "leaf-outline"
+    },
+    {
+      "id": "72",
+      "title": "Energy Analyst",
+      "category": "Environment",
+      "salaryRange": "$60,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "environment",
+        "sustainability",
+        "climate",
+        "energy",
+        "analyst"
+      ],
+      "description": "Energy Analyst helps organizations by applying environment knowledge and practical skills to deliver results.",
+      "skills": [
+        "Sustainability",
+        "Analysis",
+        "Policy",
+        "Energy",
+        "Analyst"
+      ],
+      "education": "Environment degree or relevant experience",
+      "outlook": "Increasing importance of ESG and climate planning",
+      "icon": "leaf-outline"
+    },
+    {
+      "id": "73",
+      "title": "Environmental Engineer",
+      "category": "Environment",
+      "salaryRange": "$60,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "environment",
+        "sustainability",
+        "climate",
+        "energy",
+        "environmental",
+        "engineer"
+      ],
+      "description": "Environmental Engineer helps organizations by applying environment knowledge and practical skills to deliver results.",
+      "skills": [
+        "Sustainability",
+        "Analysis",
+        "Policy",
+        "Environmental",
+        "Engineer"
+      ],
+      "education": "Environment degree or relevant experience",
+      "outlook": "Increasing importance of ESG and climate planning",
+      "icon": "leaf-outline"
+    },
+    {
+      "id": "74",
+      "title": "Climate Policy Analyst",
+      "category": "Environment",
+      "salaryRange": "$60,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "environment",
+        "sustainability",
+        "climate",
+        "energy",
+        "policy",
+        "analyst"
+      ],
+      "description": "Climate Policy Analyst helps organizations by applying environment knowledge and practical skills to deliver results.",
+      "skills": [
+        "Sustainability",
+        "Analysis",
+        "Policy",
+        "Climate",
+        "Analyst"
+      ],
+      "education": "Environment degree or relevant experience",
+      "outlook": "Increasing importance of ESG and climate planning",
+      "icon": "leaf-outline"
+    },
+    {
+      "id": "75",
+      "title": "Conservation Scientist",
+      "category": "Environment",
+      "salaryRange": "$60,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "environment",
+        "sustainability",
+        "climate",
+        "energy",
+        "conservation",
+        "scientist"
+      ],
+      "description": "Conservation Scientist helps organizations by applying environment knowledge and practical skills to deliver results.",
+      "skills": [
+        "Sustainability",
+        "Analysis",
+        "Policy",
+        "Conservation",
+        "Scientist"
+      ],
+      "education": "Environment degree or relevant experience",
+      "outlook": "Increasing importance of ESG and climate planning",
+      "icon": "leaf-outline"
+    },
+    {
+      "id": "76",
+      "title": "Renewable Energy Specialist",
+      "category": "Environment",
+      "salaryRange": "$60,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "environment",
+        "sustainability",
+        "climate",
+        "energy",
+        "renewable",
+        "specialist"
+      ],
+      "description": "Renewable Energy Specialist helps organizations by applying environment knowledge and practical skills to deliver results.",
+      "skills": [
+        "Sustainability",
+        "Analysis",
+        "Policy",
+        "Renewable",
+        "Energy"
+      ],
+      "education": "Environment degree or relevant experience",
+      "outlook": "Increasing importance of ESG and climate planning",
+      "icon": "leaf-outline"
+    },
+    {
+      "id": "77",
+      "title": "Waste Reduction Planner",
+      "category": "Environment",
+      "salaryRange": "$60,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "environment",
+        "sustainability",
+        "climate",
+        "energy",
+        "waste",
+        "reduction"
+      ],
+      "description": "Waste Reduction Planner helps organizations by applying environment knowledge and practical skills to deliver results.",
+      "skills": [
+        "Sustainability",
+        "Analysis",
+        "Policy",
+        "Waste",
+        "Reduction"
+      ],
+      "education": "Environment degree or relevant experience",
+      "outlook": "Increasing importance of ESG and climate planning",
+      "icon": "leaf-outline"
+    },
+    {
+      "id": "78",
+      "title": "Green Building Consultant",
+      "category": "Environment",
+      "salaryRange": "$60,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "environment",
+        "sustainability",
+        "climate",
+        "energy",
+        "green",
+        "building"
+      ],
+      "description": "Green Building Consultant helps organizations by applying environment knowledge and practical skills to deliver results.",
+      "skills": [
+        "Sustainability",
+        "Analysis",
+        "Policy",
+        "Green",
+        "Building"
+      ],
+      "education": "Environment degree or relevant experience",
+      "outlook": "Increasing importance of ESG and climate planning",
+      "icon": "leaf-outline"
+    },
+    {
+      "id": "79",
+      "title": "Environmental Compliance Officer",
+      "category": "Environment",
+      "salaryRange": "$60,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "environment",
+        "sustainability",
+        "climate",
+        "energy",
+        "environmental",
+        "compliance"
+      ],
+      "description": "Environmental Compliance Officer helps organizations by applying environment knowledge and practical skills to deliver results.",
+      "skills": [
+        "Sustainability",
+        "Analysis",
+        "Policy",
+        "Environmental",
+        "Compliance"
+      ],
+      "education": "Environment degree or relevant experience",
+      "outlook": "Increasing importance of ESG and climate planning",
+      "icon": "leaf-outline"
+    },
+    {
+      "id": "80",
+      "title": "Water Resources Specialist",
+      "category": "Environment",
+      "salaryRange": "$60,000 - $120,000",
+      "growth": "High",
+      "matchTags": [
+        "environment",
+        "sustainability",
+        "climate",
+        "energy",
+        "water",
+        "resources"
+      ],
+      "description": "Water Resources Specialist helps organizations by applying environment knowledge and practical skills to deliver results.",
+      "skills": [
+        "Sustainability",
+        "Analysis",
+        "Policy",
+        "Water",
+        "Resources"
+      ],
+      "education": "Environment degree or relevant experience",
+      "outlook": "Increasing importance of ESG and climate planning",
+      "icon": "leaf-outline"
+    },
+    {
+      "id": "81",
+      "title": "Legal Analyst",
+      "category": "Legal",
+      "salaryRange": "$60,000 - $140,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "legal",
+        "compliance",
+        "contracts",
+        "regulation",
+        "analyst"
+      ],
+      "description": "Legal Analyst helps organizations by applying legal knowledge and practical skills to deliver results.",
+      "skills": [
+        "Compliance",
+        "Research",
+        "Contracts",
+        "Legal",
+        "Analyst"
+      ],
+      "education": "Legal degree or relevant experience",
+      "outlook": "Steady demand in corporate, tech, and government sectors",
+      "icon": "shield-checkmark-outline"
+    },
+    {
+      "id": "82",
+      "title": "Compliance Specialist",
+      "category": "Legal",
+      "salaryRange": "$60,000 - $140,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "legal",
+        "compliance",
+        "contracts",
+        "regulation",
+        "specialist"
+      ],
+      "description": "Compliance Specialist helps organizations by applying legal knowledge and practical skills to deliver results.",
+      "skills": [
+        "Compliance",
+        "Research",
+        "Contracts",
+        "Specialist"
+      ],
+      "education": "Legal degree or relevant experience",
+      "outlook": "Steady demand in corporate, tech, and government sectors",
+      "icon": "shield-checkmark-outline"
+    },
+    {
+      "id": "83",
+      "title": "Contract Manager",
+      "category": "Legal",
+      "salaryRange": "$60,000 - $140,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "legal",
+        "compliance",
+        "contracts",
+        "regulation",
+        "contract",
+        "manager"
+      ],
+      "description": "Contract Manager helps organizations by applying legal knowledge and practical skills to deliver results.",
+      "skills": [
+        "Compliance",
+        "Research",
+        "Contracts",
+        "Contract",
+        "Manager"
+      ],
+      "education": "Legal degree or relevant experience",
+      "outlook": "Steady demand in corporate, tech, and government sectors",
+      "icon": "shield-checkmark-outline"
+    },
+    {
+      "id": "84",
+      "title": "Paralegal",
+      "category": "Legal",
+      "salaryRange": "$60,000 - $140,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "legal",
+        "compliance",
+        "contracts",
+        "regulation",
+        "paralegal"
+      ],
+      "description": "Paralegal helps organizations by applying legal knowledge and practical skills to deliver results.",
+      "skills": [
+        "Compliance",
+        "Research",
+        "Contracts",
+        "Paralegal"
+      ],
+      "education": "Legal degree or relevant experience",
+      "outlook": "Steady demand in corporate, tech, and government sectors",
+      "icon": "shield-checkmark-outline"
+    },
+    {
+      "id": "85",
+      "title": "Intellectual Property Specialist",
+      "category": "Legal",
+      "salaryRange": "$60,000 - $140,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "legal",
+        "compliance",
+        "contracts",
+        "regulation",
+        "intellectual",
+        "property"
+      ],
+      "description": "Intellectual Property Specialist helps organizations by applying legal knowledge and practical skills to deliver results.",
+      "skills": [
+        "Compliance",
+        "Research",
+        "Contracts",
+        "Intellectual",
+        "Property"
+      ],
+      "education": "Legal degree or relevant experience",
+      "outlook": "Steady demand in corporate, tech, and government sectors",
+      "icon": "shield-checkmark-outline"
+    },
+    {
+      "id": "86",
+      "title": "Corporate Counsel",
+      "category": "Legal",
+      "salaryRange": "$60,000 - $140,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "legal",
+        "compliance",
+        "contracts",
+        "regulation",
+        "corporate",
+        "counsel"
+      ],
+      "description": "Corporate Counsel helps organizations by applying legal knowledge and practical skills to deliver results.",
+      "skills": [
+        "Compliance",
+        "Research",
+        "Contracts",
+        "Corporate",
+        "Counsel"
+      ],
+      "education": "Legal degree or relevant experience",
+      "outlook": "Steady demand in corporate, tech, and government sectors",
+      "icon": "shield-checkmark-outline"
+    },
+    {
+      "id": "87",
+      "title": "Privacy Officer",
+      "category": "Legal",
+      "salaryRange": "$60,000 - $140,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "legal",
+        "compliance",
+        "contracts",
+        "regulation",
+        "privacy",
+        "officer"
+      ],
+      "description": "Privacy Officer helps organizations by applying legal knowledge and practical skills to deliver results.",
+      "skills": [
+        "Compliance",
+        "Research",
+        "Contracts",
+        "Privacy",
+        "Officer"
+      ],
+      "education": "Legal degree or relevant experience",
+      "outlook": "Steady demand in corporate, tech, and government sectors",
+      "icon": "shield-checkmark-outline"
+    },
+    {
+      "id": "88",
+      "title": "Regulatory Affairs Specialist",
+      "category": "Legal",
+      "salaryRange": "$60,000 - $140,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "legal",
+        "compliance",
+        "contracts",
+        "regulation",
+        "regulatory",
+        "affairs"
+      ],
+      "description": "Regulatory Affairs Specialist helps organizations by applying legal knowledge and practical skills to deliver results.",
+      "skills": [
+        "Compliance",
+        "Research",
+        "Contracts",
+        "Regulatory",
+        "Affairs"
+      ],
+      "education": "Legal degree or relevant experience",
+      "outlook": "Steady demand in corporate, tech, and government sectors",
+      "icon": "shield-checkmark-outline"
+    },
+    {
+      "id": "89",
+      "title": "Litigation Support Specialist",
+      "category": "Legal",
+      "salaryRange": "$60,000 - $140,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "legal",
+        "compliance",
+        "contracts",
+        "regulation",
+        "litigation",
+        "support"
+      ],
+      "description": "Litigation Support Specialist helps organizations by applying legal knowledge and practical skills to deliver results.",
+      "skills": [
+        "Compliance",
+        "Research",
+        "Contracts",
+        "Litigation",
+        "Support"
+      ],
+      "education": "Legal degree or relevant experience",
+      "outlook": "Steady demand in corporate, tech, and government sectors",
+      "icon": "shield-checkmark-outline"
+    },
+    {
+      "id": "90",
+      "title": "Ethics Officer",
+      "category": "Legal",
+      "salaryRange": "$60,000 - $140,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "legal",
+        "compliance",
+        "contracts",
+        "regulation",
+        "ethics",
+        "officer"
+      ],
+      "description": "Ethics Officer helps organizations by applying legal knowledge and practical skills to deliver results.",
+      "skills": [
+        "Compliance",
+        "Research",
+        "Contracts",
+        "Ethics",
+        "Officer"
+      ],
+      "education": "Legal degree or relevant experience",
+      "outlook": "Steady demand in corporate, tech, and government sectors",
+      "icon": "shield-checkmark-outline"
+    },
+    {
+      "id": "91",
+      "title": "Copywriter",
+      "category": "Creative",
+      "salaryRange": "$45,000 - $110,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "creative",
+        "content",
+        "media",
+        "storytelling",
+        "copywriter"
+      ],
+      "description": "Copywriter helps organizations by applying creative knowledge and practical skills to deliver results.",
+      "skills": [
+        "Storytelling",
+        "Creativity",
+        "Production",
+        "Copywriter"
+      ],
+      "education": "Creative degree or relevant experience",
+      "outlook": "Growth with brands investing in digital content",
+      "icon": "brush-outline"
+    },
+    {
+      "id": "92",
+      "title": "Content Creator",
+      "category": "Creative",
+      "salaryRange": "$45,000 - $110,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "creative",
+        "content",
+        "media",
+        "storytelling",
+        "creator"
+      ],
+      "description": "Content Creator helps organizations by applying creative knowledge and practical skills to deliver results.",
+      "skills": [
+        "Storytelling",
+        "Creativity",
+        "Production",
+        "Content",
+        "Creator"
+      ],
+      "education": "Creative degree or relevant experience",
+      "outlook": "Growth with brands investing in digital content",
+      "icon": "brush-outline"
+    },
+    {
+      "id": "93",
+      "title": "Video Producer",
+      "category": "Creative",
+      "salaryRange": "$45,000 - $110,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "creative",
+        "content",
+        "media",
+        "storytelling",
+        "video",
+        "producer"
+      ],
+      "description": "Video Producer helps organizations by applying creative knowledge and practical skills to deliver results.",
+      "skills": [
+        "Storytelling",
+        "Creativity",
+        "Production",
+        "Video",
+        "Producer"
+      ],
+      "education": "Creative degree or relevant experience",
+      "outlook": "Growth with brands investing in digital content",
+      "icon": "brush-outline"
+    },
+    {
+      "id": "94",
+      "title": "Podcast Producer",
+      "category": "Creative",
+      "salaryRange": "$45,000 - $110,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "creative",
+        "content",
+        "media",
+        "storytelling",
+        "podcast",
+        "producer"
+      ],
+      "description": "Podcast Producer helps organizations by applying creative knowledge and practical skills to deliver results.",
+      "skills": [
+        "Storytelling",
+        "Creativity",
+        "Production",
+        "Podcast",
+        "Producer"
+      ],
+      "education": "Creative degree or relevant experience",
+      "outlook": "Growth with brands investing in digital content",
+      "icon": "brush-outline"
+    },
+    {
+      "id": "95",
+      "title": "Art Director",
+      "category": "Creative",
+      "salaryRange": "$45,000 - $110,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "creative",
+        "content",
+        "media",
+        "storytelling",
+        "art",
+        "director"
+      ],
+      "description": "Art Director helps organizations by applying creative knowledge and practical skills to deliver results.",
+      "skills": [
+        "Storytelling",
+        "Creativity",
+        "Production",
+        "Art",
+        "Director"
+      ],
+      "education": "Creative degree or relevant experience",
+      "outlook": "Growth with brands investing in digital content",
+      "icon": "brush-outline"
+    },
+    {
+      "id": "96",
+      "title": "Creative Director",
+      "category": "Creative",
+      "salaryRange": "$45,000 - $110,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "creative",
+        "content",
+        "media",
+        "storytelling",
+        "director"
+      ],
+      "description": "Creative Director helps organizations by applying creative knowledge and practical skills to deliver results.",
+      "skills": [
+        "Storytelling",
+        "Creativity",
+        "Production",
+        "Creative",
+        "Director"
+      ],
+      "education": "Creative degree or relevant experience",
+      "outlook": "Growth with brands investing in digital content",
+      "icon": "brush-outline"
+    },
+    {
+      "id": "97",
+      "title": "Motion Graphics Designer",
+      "category": "Creative",
+      "salaryRange": "$45,000 - $110,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "creative",
+        "content",
+        "media",
+        "storytelling",
+        "motion",
+        "graphics"
+      ],
+      "description": "Motion Graphics Designer helps organizations by applying creative knowledge and practical skills to deliver results.",
+      "skills": [
+        "Storytelling",
+        "Creativity",
+        "Production",
+        "Motion",
+        "Graphics"
+      ],
+      "education": "Creative degree or relevant experience",
+      "outlook": "Growth with brands investing in digital content",
+      "icon": "brush-outline"
+    },
+    {
+      "id": "98",
+      "title": "Editorial Photographer",
+      "category": "Creative",
+      "salaryRange": "$45,000 - $110,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "creative",
+        "content",
+        "media",
+        "storytelling",
+        "editorial",
+        "photographer"
+      ],
+      "description": "Editorial Photographer helps organizations by applying creative knowledge and practical skills to deliver results.",
+      "skills": [
+        "Storytelling",
+        "Creativity",
+        "Production",
+        "Editorial",
+        "Photographer"
+      ],
+      "education": "Creative degree or relevant experience",
+      "outlook": "Growth with brands investing in digital content",
+      "icon": "brush-outline"
+    },
+    {
+      "id": "99",
+      "title": "Event Producer",
+      "category": "Creative",
+      "salaryRange": "$45,000 - $110,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "creative",
+        "content",
+        "media",
+        "storytelling",
+        "event",
+        "producer"
+      ],
+      "description": "Event Producer helps organizations by applying creative knowledge and practical skills to deliver results.",
+      "skills": [
+        "Storytelling",
+        "Creativity",
+        "Production",
+        "Event",
+        "Producer"
+      ],
+      "education": "Creative degree or relevant experience",
+      "outlook": "Growth with brands investing in digital content",
+      "icon": "brush-outline"
+    },
+    {
+      "id": "100",
+      "title": "UX Copywriter",
+      "category": "Creative",
+      "salaryRange": "$45,000 - $110,000",
+      "growth": "Moderate",
+      "matchTags": [
+        "creative",
+        "content",
+        "media",
+        "storytelling",
+        "ux",
+        "copywriter"
+      ],
+      "description": "UX Copywriter helps organizations by applying creative knowledge and practical skills to deliver results.",
+      "skills": [
+        "Storytelling",
+        "Creativity",
+        "Production",
+        "Ux",
+        "Copywriter"
+      ],
+      "education": "Creative degree or relevant experience",
+      "outlook": "Growth with brands investing in digital content",
+      "icon": "brush-outline"
+    }
+  ]
+}

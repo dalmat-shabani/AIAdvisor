@@ -1,0 +1,36 @@
+{
+  "recommendations": [
+    {
+      "id": "1",
+      "type": "spending",
+      "title": "Reduce Entertainment Spending",
+      "message": "Entertainment is 13% of your budget. Consider setting a $350 monthly cap to boost savings by $130.",
+      "icon": "game-controller-outline",
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "2",
+      "type": "savings",
+      "title": "Strong Savings Rate",
+      "message": "You're saving 29% of income — above the recommended 20%. Consider investing surplus in skill development.",
+      "icon": "trending-up-outline",
+      "color": "#10B981"
+    },
+    {
+      "id": "3",
+      "type": "career",
+      "title": "Tech Career Match",
+      "message": "Based on your interests in technology and problem-solving, Software Developer is a 92% match for your profile.",
+      "icon": "briefcase-outline",
+      "color": "#2563EB"
+    },
+    {
+      "id": "4",
+      "type": "learning",
+      "title": "Invest in Learning",
+      "message": "You spend 5% on learning. Increasing to 8% ($416/mo) could accelerate your career transition timeline.",
+      "icon": "school-outline",
+      "color": "#F59E0B"
+    }
+  ]
+}

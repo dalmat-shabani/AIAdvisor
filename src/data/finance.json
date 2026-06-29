@@ -1,0 +1,15 @@
+{
+  "income": 5200,
+  "expenses": 3680,
+  "savings": 1520,
+  "currency": "USD",
+  "categories": [
+    { "id": "1", "name": "Housing", "amount": 1400, "percent": 38, "icon": "home-outline", "color": "#2563EB" },
+    { "id": "2", "name": "Food & Dining", "amount": 620, "percent": 17, "icon": "restaurant-outline", "color": "#F59E0B" },
+    { "id": "3", "name": "Transport", "amount": 380, "percent": 10, "icon": "car-outline", "color": "#10B981" },
+    { "id": "4", "name": "Entertainment", "amount": 480, "percent": 13, "icon": "game-controller-outline", "color": "#8B5CF6" },
+    { "id": "5", "name": "Subscriptions", "amount": 220, "percent": 6, "icon": "card-outline", "color": "#EF4444" },
+    { "id": "6", "name": "Learning", "amount": 180, "percent": 5, "icon": "book-outline", "color": "#06B6D4" },
+    { "id": "7", "name": "Other", "amount": 400, "percent": 11, "icon": "ellipsis-horizontal-outline", "color": "#64748B" }
+  ]
+}

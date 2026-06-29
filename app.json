@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "AI-Life-Advisor",
+    "name": "AI Life Advisor",
     "slug": "AI-Life-Advisor",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,11 +22,9 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router",
       [
         "expo-splash-screen",
         {
@@ -39,10 +37,6 @@
           }
         }
       ]
-    ],
-    "experiments": {
-      "typedRoutes": true,
-      "reactCompiler": true
-    }
+    ]
   }
 }
